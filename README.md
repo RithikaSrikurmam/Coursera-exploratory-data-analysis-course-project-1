@@ -13,7 +13,7 @@ This is a assignment Project for exploratory graphs, understanding the data, and
 * Sub_metering_2
 * Sub_metering_3 
 
-The catalog of these variable sorted in [UCL website](https://archive.ics.uci.edu/ml/datasets/Individual+household+electric+power+consumption). The goal of this Project is to examine how household energy usage varies over a 2-day period in February, 2007 and reconstruct the plots. [https://github.com/rdpeng/ExData_Plotting1](https://github.com/rdpeng/ExData_Plotting1) this github repositry explain all project requirment. 
+The catalog of these variables is sorted in [UCL website](https://archive.ics.uci.edu/ml/datasets/Individual+household+electric+power+consumption). The goal of this Project is to examine how household energy usage varies over a 2-day period in February, 2007 and reconstruct the plots. [https://github.com/rdpeng/ExData_Plotting1](https://github.com/rdpeng/ExData_Plotting1) this github repositry explain all project requirment. 
 
 The reconstructed plots and Rscript named as:
 * plot1.png & plot1.R
